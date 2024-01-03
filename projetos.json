@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "Titulo": "Consulta Telefone",
+    "sinopse": "Desenvolvimento acadêmico de um Sistema de Gerenciamento de Usuários baseado na arquitetura MVC, com autenticação 2FA e integração MySQL. Interfaces responsivas usando JavaScript, HTML, CSS, Bootstrap e Datatable no front-end, PHP no back-end.",
+    "tags": "texto",
+    "img_1": "src/assets/consultaTelefone/pagdashboard.png",
+    "img_2": "src/assets/consultaTelefone/paghome.png",
+    "img_3": "src/assets/consultaTelefone/pagserviço.png",
+    "img_4": "src/assets/consultaTelefone/pagrelatorioUser.png",
+    "link": "https://github.com/piinheiroflavia/ConsultaTelefone",
+    "ferramentas": { 
+      "fer_1": "javascript", 
+      "fer_2": "bootstrap", 
+      "fer_3":"mysql",
+      "fer_4": "php"
+    }
+  },
+  {
+    "id": 2,
+    "Titulo": "AuroraOrganic: E-commerce Sustentável",
+    "sinopse": "Projeto acadêmico de e-commerce de produtos naturais, alinhado aos ODS da ONU 2030. Frontend ágil com React, Vite.js e Tailwind. Backend em Node.js com MySQL na AWS (EC2 e RDS), destacando a sustentabilidade não apenas nos produtos, mas também na infraestrutura.",
+    "tags": "texto",
+    "img_1": "src/assets/auroraOrganic/Finalizando.png",
+    "img_2": "src/assets/auroraOrganic/awsRDS2.png",
+    "img_3": "src/assets/auroraOrganic/blog1.png",
+    "img_4": "src/assets/auroraOrganic/awsEC2.png",
+    "link": "https://github.com/piinheiroflavia/auroraorganic",
+    "ferramentas": { 
+      "fer_1": "javascript", 
+      "fer_2": "nodejs", 
+      "fer_3":"vitejs",
+      "fer_4": "tailwind", 
+      "fer_5":"aws - ec2 e rds"
+    }
+  },
+  {
+    "id": 3,
+    "Titulo": "Projeto Sistema de Gestão de Redes Escolares",
+    "sinopse": "Sistema MVC para gestão de informações em rede escolar. Operações CRUD no ASP.NET MVC, separando lógica de negócios, apresentação e controle. Validações em JavaScript garantem precisão e conformidade das informações.",
+    "tags": "texto",
+    "img_1": "src/assets/eduEscola/page1.png",
+    "img_2": "src/assets/eduEscola/page2.png",
+    "img_3": "src/assets/eduEscola/page3.png",
+    "img_4": "src/assets/eduEscola/page4.png",
+    "link": "https://github.com/piinheiroflavia/EduEscola",
+    "ferramentas": { 
+      "fer_1": "asp.net mvc", 
+      "fer_2": "javascript", 
+      "fer_3":"api",
+      "fer_4": "#"
+    }
+  },
+  {
+    "id": 4,
+    "Titulo": "Site Telecall",
+    "sinopse": "Desenvolvimento de site responsivo em WordPress para a empresa de telecomunicações Telecall. Integração com CRM por meio de formulários e webchat. Utilização de JavaScript, HTML e CSS para a integração. Destaca-se pela adaptação a diferentes públicos e ambientes.",
+    "tags": "texto",
+    "img_1": "src/assets/telecall/siteTelecall.png",
+    "img_2": "src/assets/telecall/siteTelecall.png",
+    "img_3": "src/assets/telecall/siteTelecall.png",
+    "img_4": "src/assets/telecall/siteTelecall.png",
+    "link": "https://telecall.com",
+    "ferramentas": { 
+      "fer_1": "wordpress", 
+      "fer_2": "javascript", 
+      "fer_3":"bootstrap"
+    }
+  }
+]
